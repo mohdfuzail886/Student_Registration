@@ -4,3 +4,4 @@ Welcome to the Student Registration Form project! This simple web application al
 # Features
 -> User-friendly Form: An easy-to-use form with fields for entering Login details.
 -> Login/SignUp : Both the options provided and also we have the option of forgot password.
+-> UI/UX : Providing best user experience through this project
